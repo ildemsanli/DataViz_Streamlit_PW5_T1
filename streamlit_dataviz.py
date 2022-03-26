@@ -1,6 +1,4 @@
 #### IMPORT LIBRAIRIES ####
-from site import check_enableusersite
-from turtle import forward
 import streamlit as st
 import pandas as pd
 import numpy as np
