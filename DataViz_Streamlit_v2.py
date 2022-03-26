@@ -1,14 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Mar 26 13:11:46 2022
-
-@author: ildem
-"""
-
-#%%
-
-   
 #### IMPORT LIBRAIRIES ####
 from site import check_enableusersite
 from turtle import forward
